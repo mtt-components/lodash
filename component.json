@@ -1,0 +1,8 @@
+{
+    "repos": "https://github.com/lodash/lodash",
+    "version": "3.5.0",
+    "description": "A JavaScript utility library delivering consistency, modularity, performance, & extras. ",
+    "name": "lodash",
+    "main": "lodash.js",
+    "umd2commonjs": false
+}
