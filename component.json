@@ -1,9 +1,0 @@
-{
-    "name": "lodash",
-    "description": "The modern build of lodash modular utilities.",
-    "repos": "https://github.com/lodash/lodash.git",
-    "main": "index.js",
-    "tag": "master",
-    "reposType": "npm",
-    "version": "3.10.0"
-}
